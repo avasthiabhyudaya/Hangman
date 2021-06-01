@@ -1,0 +1,2135 @@
+0       Bachchan Pandey
+1    Ek Villain Returns
+2         Untitled film
+Name: Title, dtype: object
+0          Roohi
+1    Mumbai Saga
+2        Radhe *
+Name: Title, dtype: object
+0                        Tanhaji
+1                       Baaghi 3
+2               Street Dancer 3D
+3    Shubh Mangal Zyada Saavdhan
+4                         Malang
+5                       Chhapaak
+6                   Love Aaj Kal
+7               Jawaani Jaaneman
+8                        Thappad
+9                          Panga
+Name: Title, dtype: object
+0                 Sanju
+1             Padmaavat
+2             Andhadhun
+3                Simmba
+4    Thugs of Hindostan
+5                Race 3
+6              Baaghi 2
+7                Hichki
+8            Badhaai Ho
+9               Pad Man
+Name: Title, dtype: object
+0                          Dangal
+1                          Sultan
+2              Ae Dil Hai Mushkil
+3    M.S. Dhoni: The Untold Story
+4                          Rustom
+5                         Airlift
+6                     Housefull 3
+7                             Fan
+8                         Shivaay
+Name: Title, dtype: object
+0          Bajrangi Bhaijaan
+1       Prem Ratan Dhan Payo
+2                    Dilwale
+3            Bajirao Mastani
+4    Tanu Weds Manu: Returns
+5               Welcome Back
+6                     ABCD 2
+7            Dil Dhadakne Do
+8                       Baby
+9                       Piku
+Name: Title, dtype: object
+0                                      PK
+1                          Happy New Year
+2                                    Kick
+3                              Bang Bang!
+4                         Singham Returns
+5                                  Jai Ho
+6    Holiday: A Soldier Is Never Off Duty
+7                                2 States
+8                              Ek Villain
+9                                  Gunday
+Name: Title, dtype: object
+Empty DataFrame
+Columns: [(Om Shanti Om, Welcome, Chak De! India, Partner, Taare Zameen Par, Heyy Babyy, Guru, Bhool Bhulaiyaa, Namastey London, Ta Ra Rum Pum)]
+Index: []
+Empty DataFrame
+Columns: [(Dhoom 2, Lage Raho Munna Bhai, Krrish, Kabhi Alvida Na Kehna, Don, Fanaa, Rang De Basanti, Phir Hera Pheri, Bhagam Bhag, Vivah)]
+Index: []
+0                       No Entry
+1                Bunty Aur Babli
+2                 Salaam Namaste
+3                   Garam Masala
+4      Mangal Pandey: The Rising
+5         Maine Pyaar Kyun Kiya?
+6    Waqt: The Race Against Time
+7                          Black
+8                         Sarkar
+9                            Dus
+Name: Title, dtype: object
+0                     Devdas
+1                     Kaante
+2                       Raaz
+3     Hum Tumhare Hain Sanam
+4                    Aankhen
+5       Mujhse Dosti Karoge!
+6                    Humraaz
+7                   Saathiya
+8       Awara Paagal Deewana
+9                    Company
+10                 Deewangee
+Name: Title, dtype: object
+Empty DataFrame
+Columns: [(Mohabbatein, Kaho Naa... Pyaar Hai, Mission Kashmir, Dulhan Hum Le Jayenge, Refugee, Josh, Har Dil Jo Pyar Karega, Fiza, Hamara Dil Aapke Paas Hai, Jungle)]
+Index: []
+Empty DataFrame
+Columns: [(Hum Saath-Saath Hain, Biwi No.1, Hum Dil De Chuke Sanam, Sarfarosh, Haseena Maan Jaayegi, Daag: The Fire, Khoobsurat, Taal, Hum Aapke Dil Mein Rehte Hain, Baadshah)]
+Index: []
+0            Kuch Kuch Hota Hai
+1                       Soldier
+2          Pyaar To Hona Hi Tha
+3       Pyaar Kiya To Darna Kya
+4                      Dil Se..
+5                        Ghulam
+6                    Major Saab
+7                    Dulhe Raja
+8                    China Gate
+9     Jab Pyaar Kisise Hota Hai
+10                        Satya
+Name: Title, dtype: object
+0           Dil To Pagal Hai
+1                     Border
+2                     Judwaa
+3                       Ishq
+4                     Pardes
+5     Gupt: The Hidden Truth
+6                      Ziddi
+7                 Hero No. 1
+8                      Koyla
+9                     Judaai
+10           Deewana Mastana
+Name: Title, dtype: object
+0          Raja Hindustani
+1                   Ghatak
+2    English Babu Desi Mem
+3              Agni Sakshi
+4                     Jeet
+5    Khiladiyon Ka Khiladi
+Name: Title, dtype: object
+0    Dilwale Dulhania Le Jayenge
+1                    Karan Arjun
+2                           Raja
+3                       Rangeela
+4                        Barsaat
+5                   Coolie No. 1
+6             Sabse Bada Khiladi
+7                       Trimurti
+8                      Ram Jaane
+9            Akele Hum Akele Tum
+Name: Title, dtype: object
+0    Hum Aapke Hain Koun..!
+1                     Mohra
+2                Krantiveer
+3                 Raja Babu
+4     Main Khiladi Tu Anari
+5               Yeh Dillagi
+6                    Laadla
+7                    Suhaag
+8                   Dilwale
+9                 Vijaypath
+Name: Title, dtype: object
+0                 Beta
+1              Deewana
+2          Khuda Gawah
+3    Shola Aur Shabnam
+4              Tahalka
+Name: Title, dtype: object
+0                  100 Days
+1              Aadi Mimansa
+2      Aag Laga Do Sawan Ko
+3             Aaj Ka Samson
+4             Aakhri Cheekh
+               ...         
+126            Vishnu-Devaa
+127           Yaara Dildara
+128     Yeh Aag Kab Bujhegi
+129                   Yodha
+130                   Zaher
+Name: Title, Length: 131, dtype: object
+0                             Dil
+1                          Ghayal
+2                    Aaj Ka Arjun
+3                       Agneepath
+4                 Kishen Kanhaiya
+5                       Thanedaar
+6                        Aashiqui
+7                          Baaghi
+8                           Swarg
+9     Baap Numbri Beta Dus Numbri
+10                Ghar Ho To Aisa
+Name: Title, dtype: object
+0    Maine Pyar Kiya
+1         Ram Lakhan
+2            Chandni
+3             Tridev
+4          ChaalBaaz
+5       Elaan-E-Jung
+6              Daata
+7            Batwara
+8            Parinda
+9             Toofan
+Name: Title, dtype: object
+0                    Tezaab
+1                Shahenshah
+2            Paap Ki Duniya
+3    Qayamat Se Qayamat Tak
+4         Khoon Bhari Maang
+Name: Title, dtype: object
+0              108 Teerthyatra
+1                  7 Saal Baad
+2                   Aag Hi Aag
+3                 Aage Mod Hai
+4                          Aaj
+                ...           
+105          Watan Ke Rakhwale
+106             Woh Din Aayega
+107    Yeh Woh Manzil To Nahin
+108                     Zameen
+109                      Zevar
+Name: Title, Length: 110, dtype: object
+0                                  Aadamkhor
+1                              Aag Aur Shola
+2                             Aakhree Raasta
+3                               Aap Ke Saath
+4                                   Aashiana
+5                                    Adhikar
+6                           Aisa Pyaar Kahan
+7                                     Albela
+8                                Allah Rakha
+9                                       Amma
+10                                     Amrit
+11                              Anaadi Anant
+12                            Andaz Pyaar Ka
+13    Andheri Raat Mein Diya Tere Haath Mein
+14                                  Angaaray
+15                                    Ankush
+16                             Anokha Insaan
+17                             Anokha Rishta
+18                                   Anubhav
+19                                Asli Naqli
+20                                   Avinash
+21                             Baat Ban Jaye
+22                                     Babul
+23                                   Badkaar
+24                                   Begaana
+25                             Bhagwaan Dada
+26                      Bhai Ka Dushman Bhai
+27                                 Car Thief
+28                        Chambal Ka Badshah
+29                         Chameli Ki Shaadi
+30                              Chhota Aadmi
+31                              Congregation
+32                                   Dahleez
+33                               Daku Bijlee
+34                              Dancing City
+35                            Dharm Adhikari
+36                                  Dilwaala
+37                            Dosti Dushmani
+38                                Durgaa Maa
+39                                      Duty
+Name: Title, dtype: object
+0        Aaj Ka Daur
+1      Aaj Ke Sholey
+2       Aakhir Kyon?
+3      Aandhi-Toofan
+4           Aar Paar
+           ...      
+130       Yaar Kasam
+131             Yudh
+132        Zabardast
+133           Zamana
+134    Zulm Ka Badla
+Name: Title, Length: 135, dtype: object
+0      Aaj Ka M.L.A. Ram Avtar
+1                 Aaj Ki Awaaz
+2               Aakhri Sangram
+3                Aan Aur Shaan
+4                      Aasmaan
+                ...           
+126      Yeh Ishq Nahin Aasaan
+127            Yeh Kahani Nahi
+128                Zakhmi Sher
+129              Zameen Aasman
+130      Zindagi Jeene Ke Liye
+Name: Title, Length: 131, dtype: object
+0               Aao Pyaar Karen
+1                    Achha Bura
+2              Agar Tum Na Hote
+3                     Agent 123
+4                  Andha Kanoon
+                 ...           
+99                 Woh Saat Din
+100    Yahan Se Shehar Ko Dekho
+101                  Zakhmi Dil
+102             Zara Si Zindagi
+103           Zulf Ke Saye Saye
+Name: Title, Length: 104, dtype: object
+0           Aadat Se Majboor
+1                    HmHyatt
+2                Aadharshila
+3                    Aagaman
+4                Aamne Samne
+               ...          
+127        Waqt-Waqt Ki Baat
+128          Yeh Nazdeekiyan
+129    Yeh To Kamaal Ho Gaya
+130           Yeh Vaada Raha
+131           Zakhmee Insaan
+Name: Title, Length: 132, dtype: object
+0               Aakhri Mujra
+1          Aankhon Ke Saamne
+2              Aapas Ki Baat
+3                   Aas Paas
+4             Agni Pareeksha
+               ...          
+110                   Wardat
+111      Woh Phir Nahin Aaye
+112                  Yaraana
+113     Yeh Rishta Na Tootay
+114    Zamane Ko Dikhana Hai
+Name: Title, Length: 115, dtype: object
+0                 Aakrosh
+1                 Aanchal
+2          Aap Ke Deewane
+3      Aap To Aise Na The
+4                   Aasha
+              ...        
+108            Unees-Bees
+109         Yari Dushmani
+110      Yeh Kaisa Insaf?
+111     Zakhmon Ke Nishan
+112                 Zalim
+Name: Title, Length: 113, dtype: object
+0       Aaj Ki Dhara
+1       Aakhri Kasam
+2     Aangan Ki Kali
+3             Aatish
+4             Ahinsa
+           ...      
+82         Surakksha
+83           Taraana
+84       Teen Chehre
+85    Tere Pyar Mein
+86           Yuvraaj
+Name: Title, Length: 87, dtype: object
+0     Ashok V. Bhushan
+1        Prakash Mehra
+2           Homi Wadia
+3     Harmesh Malhotra
+4        Samir Ganguly
+            ...       
+79        Anil Ganguly
+80         Yash Chopra
+81     Basu Chatterjee
+82         Ravi Chopra
+83        Subhash Ghai
+Name: Title, Length: 84, dtype: object
+0        Aadmi Sadak Ka
+1                 Aafat
+2                 Aaina
+3           Aakhri Goli
+4          Aakhri Sajda
+             ...       
+99         Vishwasghaat
+100      Yaaron Ka Yaar
+101    Yehi Hai Zindagi
+102            Zamaanat
+103            Zehreeli
+Name: Title, Length: 104, dtype: object
+0      Aaj Ka Mahaatma
+1       Aaj Ka Ye Ghar
+2            Aap Beati
+3              Aarambh
+4               Adalat
+            ...       
+72     Udhar Ka Sindur
+73     Veer Bhagdavalo
+74    Zamane Se Poocho
+75                 Zid
+76             Zindagi
+Name: Title, Length: 77, dtype: object
+0           Aa Jaa Sanam
+1         Aag Aur Toofan
+2            Aakhri Daao
+3               Aakraman
+4                 Aandhi
+             ...        
+77               Zakhmee
+78                Zameer
+79             Zinda Dil
+80    Zindagi Aur Toofan
+81                 Zorro
+Name: Title, Length: 82, dtype: object
+0                    27 Down
+1                  36 Ghante
+2                   5 Rifles
+3     Aahat – Ek Ajib Kahani
+4               Aap Ki Kasam
+               ...          
+95                  Trimurti
+96                   Us Paar
+97                    Vachan
+98            Woh Main Nahin
+99           Zehreela Insaan
+Name: Title, Length: 100, dtype: object
+0          Aa Gale Lag Jaa
+1      Aaj Ki Taaza Khabar
+2                   Aangan
+3                 Abhimaan
+4                  Achanak
+              ...         
+77        Shareef Budmaash
+78    Wohi Raat Wohi Awaaz
+79       Yaadon Ki Baaraat
+80                  Yauwan
+81                 Zanjeer
+Name: Title, Length: 82, dtype: object
+0                 Aan Baan
+1            Aankh Micholi
+2     Aankhon Aankhon Mein
+3                Amar Prem
+4                 Annadata
+              ...         
+92               Yaar Mera
+93     Yeh Gulistan Hamara
+94           Zameen Aasman
+95                Zaroorat
+96         Zindagi Zindagi
+Name: Title, Length: 97, dtype: object
+0     Aap Aye Bahaar Ayee
+1                 Adhikar
+2       Aisa Bhi Hota Hai
+3                  Albela
+4                   Anand
+             ...         
+86            Tulsi Vivah
+87                 Ummeed
+88                Upaasna
+89                 Uphaar
+90      Woh Din Yaad Karo
+Name: Title, Length: 91, dtype: object
+0            Johny Mera Naam
+1              Sachaa Jhutha
+2             Aan Milo Sajna
+3          Purab Aur Paschim
+4              Jeevan Mrityu
+5                    Khilona
+6                   Sharafat
+7                    Humjoli
+8                      Safar
+9     Tum Haseen Main Jawaan
+10                      Gopi
+11    Kab? Kyoon? Aur Kahan?
+12                   Pehchan
+13                   Ganwaar
+14                 Bhai-Bhai
+15                 The Train
+16              Sawan Bhadon
+17                      Geet
+18                 Abhinetri
+19                    Dharti
+Name: Title, dtype: object
+0                  Aradhana
+1                 Do Raaste
+2          Ek Phool Do Mali
+3                    Prince
+4                   Inteqam
+5             Jeene Ki Raah
+6        Aya Sawan Jhoom Ke
+7                   Bandhan
+8                     Sajan
+9         Waris (1969 film)
+10                   Yakeen
+11               Jigri Dost
+12                     Doli
+13             Pyar Hi Pyar
+14                  Talaash
+15         Aadmi Aur Insaan
+16                   Chirag
+17                  Ittefaq
+18                  Anjaana
+19     Tumse Achha Kaun Hai
+20                  Vishwas
+21           Pyar Ka Mausam
+22                Raja Saab
+23    Aansoo Ban Gaye Phool
+24          Jahan Pyar Mile
+25                 Satyakam
+Name: Title, dtype: object
+0                    Ankhen
+1               Do Kaliyaan
+2                Neel Kamal
+3                 Kanyadaan
+4                    Shikar
+5                   Padosan
+6               Brahmachari
+7                     Aadmi
+8       Haseena Maan Jayegi
+9                    Duniya
+10                   Saathi
+11                Sunghursh
+12    Mere Hamdam Mere Dost
+13        Jhuk Gaya Aasmaan
+14                    Izzat
+15              Mere Huzoor
+16       Sadhu Aur Shaitaan
+17                   Kismat
+18              Man Ka Meet
+19                    Gauri
+Name: Title, dtype: object
+0                   Upkar
+1           Ram Aur Shyam
+2                    Farz
+3                 Hamraaz
+4                 Shagird
+5             Jewel Thief
+6                   Milan
+7     An Evening in Paris
+8        Patthar Ke Sanam
+9            Raat Aur Din
+10                   Aman
+11                    Aag
+12            Aamne Samne
+13        Night in London
+14       Around the World
+Name: Title, dtype: object
+0    Phool Aur Patthar
+1                Suraj
+2           Mera Saaya
+3        Teesri Manzil
+4        Love in Tokyo
+5             Do Badan
+6    Aaye Din Bahar Ke
+7       Sawan Ki Ghata
+8        Pyar Kiye Jaa
+9             Dus Lakh
+Name: Title, dtype: object
+0     Aadhi Raat Ke Baad
+1           Aasman Mahal
+2              Akashdeep
+3                  Arzoo
+4                 Bedaag
+             ...        
+68           Teen Devian
+69           Teen Sardar
+70           Teesra Kaun
+71                  Waqt
+72      Zindagi Aur Maut
+Name: Title, Length: 73, dtype: object
+0                 Sangam
+1     Ayee Milan Ki Bela
+2                  Dosti
+3                  Ziddi
+4               Rajkumar
+5        Kashmir Ki Kali
+6               Haqeeqat
+7                Zindagi
+8           Woh Kaun Thi
+9             April Fool
+10                Leader
+11             Beti Bete
+12                Samson
+13          Dulha Dulhan
+14         Door Ki Awaaz
+Name: Title, dtype: object
+0                     Mughal-e-Azam
+1                   Barsaat Ki Raat
+2                          Kohinoor
+3                Chaudhvin Ka Chand
+4     Jis Desh Mein Ganga Behti Hai
+5         Dil Apna Aur Preet Parayi
+6                     Love in Simla
+7                          Ghunghat
+8                            Kanoon
+9                        Kala Bazar
+10                          Chhalia
+11                   Hum Hindustani
+Name: Title, dtype: object
+0             C.I.D.
+1       Ek Hi Raasta
+2        Chori Chori
+3       Basant Bahar
+4          New Delhi
+5           Raj Hath
+6          Bhai-Bhai
+7    Toofan Aur Diya
+8           Funtoosh
+9          Inspector
+Name: Title, dtype: object
+0             11 O'Clock
+1                    Aag
+2          Aaj Ka Farhad
+3            Aaj Ki Raat
+4              Aap Beeti
+5                Actress
+6                 Adalat
+7                 Ajamil
+8                   Ajit
+9              Amar Prem
+10      Andhon Ka Sahara
+11             Anjangarh
+12               Anjuman
+13            Anokhi Ada
+14           Anokha Pyar
+15                  Asha
+16        Azad Hindustan
+17     Azadi Ki Raah Par
+18        Bahadur Jeevan
+19        Bahadur Naresh
+20                 Balma
+21               Banjare
+22               Banwasi
+23     Barsat Ki Ek Raat
+24    Bhakta Bilwamangal
+25    Bhakta Gopalbhaiya
+26                 Bhool
+27       Bichchade Balam
+28                Bihari
+29                Birhan
+Name: Title, dtype: object
+0            Aage Badho
+1           Aaj Aur Kal
+2      Aap Ki Sewa Mein
+3                Abidah
+4                Ajamil
+5                Ahinsa
+6             Amar Asha
+7      Andhon Ki Duniya
+8            Angoorbala
+9                  Arsi
+10            Atom Bomb
+11            Attention
+12          Azad Jeevan
+13       Bahadur Pratap
+14            Barrister
+15            Beete Din
+16                 Bela
+17            Bhai Dooj
+18        Bhakta Dhruva
+19    Bhakta Ke Bhagwan
+20              Bhanwar
+21       Bhatakti Maina
+22               Bhookh
+23       Bhool Na Jaana
+24         Black Market
+25        Bulbul-e-Iran
+26           But Tarash
+Name: Title, dtype: object
+0                       1857
+1     Aath Din a.k.a. 8 Days
+2                  Aai Bahar
+3           Aap Ki Sewa Mein
+4                    Airmail
+5                    Alibaba
+6                   Amar Raj
+7                Anmol Ghadi
+8             Arabian Nights
+9              Arab Ka Chand
+10            Arab Ka Sitara
+11                 Attention
+12                      Baap
+13          Bachchon Ka Khel
+14                   Badnami
+15           Baghdad Ka Chor
+16               Behram Khan
+17            Bhakta Prahlad
+18             Bhedi Dushman
+19             Bhedi Khazana
+20                   Bindiya
+21           Black and White
+22               Black Shirt
+23             Brahman Kanya
+Name: Title, dtype: object
+0             Aarti
+1             Adhar
+2            Albeli
+3           Alladin
+4            Amiree
+5          Amrapali
+6           Bachpan
+7          Badi Maa
+8         Ban Phool
+9             Begum
+10        Bhai Jaan
+11       Bisvi Sadi
+12           Champa
+13    Chand Chakori
+14       Chand Tara
+15          Chhamia
+Name: Title, dtype: object
+0                     Aaina
+1                     Anban
+2          Bade Nawab Saheb
+3                 Badi Baat
+4                   Badmash
+5                   Bahadur
+6                     Bahar
+7                Bandukwali
+8                 Beda Paar
+9              Bhagya Laxmi
+10                     Bhai
+11                 Bhanvara
+12              Bhartrahari
+13                  Caravan
+14    Chal Chal Re Naujawan
+15                    Chand
+16             Char Aankhen
+Name: Title, dtype: object
+0                      Aabroo
+1                   Aadab Arz
+2                  Aage Kadam
+3              Aankh Ki Sharm
+4                     Amaanat
+5                     Andhera
+6                     Angoori
+7                Andhi Duniya
+8                    Angoothi
+9                    Ashirwad
+10             Badalti Duniya
+11                      Badla
+12                    Bansari
+13               Bhagta Bhoot
+14                  Bhaichara
+15              Bhakta Raidas
+16                  Bhaktaraj
+17                     Bhalai
+18                Chhed Chhad
+19    Chhoti Maa a.k.a. Nurse
+20                     Chirag
+21                      Duhai
+22                     Dulhan
+23              Duniya Diwani
+Name: Title, dtype: object
+0     Aankh Michouli
+1          Amar Asha
+2          Apna Ghar
+3        Apna Paraya
+4             Armaan
+5              Arzoo
+6              Awaaz
+7             Bahana
+8              Barat
+9             Basant
+10      Bhakta Kabir
+11      Bharat Milap
+12     Bhakta Surdas
+13          Blackout
+14      Bolti Bulbul
+15    Bombay Calling
+16           Chandni
+17       Chauranghee
+18          Chudiyan
+Name: Title, dtype: object
+0                                       Aasra
+1                                        Abla
+2                                       Akela
+3                              Allaudin Laila
+4                                       Amrit
+5                                      Anjaan
+6                                       Bahen
+7     Bambai Ki Sair a.k.a. Holiday in Bombay
+8                                        Beti
+9                     Bombaiwali (Bambaiwali)
+10                            Bulbule Baghdad
+Name: Title, dtype: object
+0                     Aaj Ka Hindustan
+1                        Aaj Ki Duniya
+2                               Aandhi
+3                       Abla Ki Shakti
+4                               Achhut
+5                       Aflatoon Aurat
+6     Alakh Niranjan a.k.a. Gorakhnath
+7                             Ali Baba
+8                             Anarbala
+9                               Anjaam
+10                            Anuradha
+11                       Apni Nagariya
+12                               Aurat
+13                                Azad
+14                       Azadi-e-Watan
+Name: Title, dtype: object
+0                 Aadmi
+1          Aap Ki Marzi
+2     Actress Kyon Bani
+3         Adhuri Kahani
+4       Alladin Ka Beta
+5             Badi Didi
+6                 Baghi
+7        Bahadur Ramesh
+8           Bhedi Kumar
+9           Bhole Bhale
+10                Bijli
+11      Brandy Ki Botal
+Name: Title, dtype: object
+0                                               Abhagin
+1                                               Adhikar
+2     Alauddin Aur Jadui Chirag a.k.a. Alladin And T...
+3                                                  Asha
+4                                               Baghban
+5                                         Bahadur Kisan
+6                                        Ban Ki Chidiya
+7                                        Banke Sawariya
+8                                               Bazigar
+9                                                Bhabhi
+10                                         Bhedi Burkha
+11                                        Bhedi Trishul
+12                                 Billi a.k.a. The Cat
+13                                          Brahmachari
+Name: Title, dtype: object
+0        Adarsh Mahila
+1             Aflatoon
+2         Anath Ashram
+3         Asiai Sitara
+4          Atma Tarang
+5     Aurat Ki Zindagi
+6          Badhe Chalo
+7         Banke Sipahi
+8              Begunah
+9      Bharat Ka Jiwan
+10     Bismil Ki Arzoo
+11             Bulldog
+Name: Title, dtype: object
+0                     Achhut Kanya
+1     Ailane Jung a.k.a. Ultimatum
+2                      Akhri Galti
+3                       Amar Jyoti
+4                        Amar Prem
+5                     Amar Shaheed
+6                   Andheri Duniya
+7                 Ansuon Ki Duniya
+8                     Aseere Hawas
+9                          Ashiana
+10        Azad Veer a.k.a. Revenge
+Name: Title, dtype: object
+0    After The Earthquake a.k.a. Inquilab
+1                            Ahe Mazluman
+2       Al Hilal a.k.a. Judgemnt Of Allah
+3        Alladin II a.k.a. Aaj Ka Alladin
+4                                Anarkali
+5                                 Apradhi
+6                            Apradhi Abla
+7      Asmat Ka Moti a.k.a. Chirag-e-Arab
+8                               Azad Abla
+9                                   Azadi
+Name: Title, dtype: object
+0                             Aaj Kal
+1     Actress a.k.a. Bambai Ki Mohini
+2                     Adil-E-Jehangir
+3                         Afghan Abla
+4                              Ajamil
+5           Akashwani a.k.a. Prophecy
+6                            Ambarish
+7                              Ameena
+8                            Amirzadi
+9                       Amrit Manthan
+10                        Anokha Prem
+11                    Anokhi Mohabbat
+Name: Title, dtype: object
+0                       Aab-E-Hayat
+1                             Afzal
+2                        Alif Laila
+3    Alladin And His Wonderful Lamp
+4                     Ankh Ka Nasha
+5                      Aurat Ka Dil
+6                     Aurat Ka Pyar
+7                    Awara Shehzada
+Name: Title, dtype: object
+0     Alibaba And Forty Thieves
+1                  Ankh Ka Tara
+2               Ayodhya Ka Raja
+3                Bhakta Prahlad
+4                  Bharati Mata
+5                   Bhartruhari
+6              Bhasmasur Mohini
+7                  Bhutia Mahal
+8                   Bilwamangal
+9                   Bishnu Maya
+10             Bulbul-E-Baghdad
+Name: Title, dtype: object
+0                           Aatishe Ishq
+1         Abhishek a.k.a. The Anointment
+2                             Abul Hasan
+3                            Afghan Abla
+4                               Alam Ara
+5                          Albeli Mumbai
+6         Alladin and the Wonderful Lamp
+7                              Amir Khan
+8           Aparadhi a.k.a. The Criminal
+9      Asire Hirs a.k.a. Nemesis of Lust
+10    Awara Raqasa a.k.a. Bhatakta Joban
+11                            Anang Sena
+Name: Title, dtype: object
+0                 A Prince Indeed a.k.a. Veer Bhushan
+1                Ace Of Swords a.k.a. Talwar Ka Phani
+2                        Alik Babu a.k.a. Master Liar
+3                 All For The Crown a.k.a. Khooni Taj
+4                                          Amar Kirti
+5                 An Ideal Woman a.k.a. Adarsh Ramani
+6              Arunodaya a.k.a. The Rising Sun (Dawn)
+7                          Avarice a.k.a. Aghor Lalsa
+8                            Avenged a.k.a. Ver Vasul
+9     Bandit Of Baghdad a.k.a. Baghdad Nu Baharvatiyo
+10                 Beggar Meets Beggar a.k.a. Rajdoot
+11        Behram the Bandit a.k.a. Baharvatiyo Behram
+12                  Beloved Rogue a.k.a. Albelo Sawar
+13          Benevolent Bravery a.k.a. Shurana Sangram
+14      Bharat Ramani a.k.a. The Enchantress of India
+15                                 Bhimsen the Mighty
+16                  Brand Of Fate a.k.a. Bhola Shikar
+Name: Title, dtype: object
+0                   All for Money a.k.a. Paisa Na Gulam
+1               Akalmand Bewaqoof a.k.a. Foolish Wisdom
+2                         Anarbala a.k.a. Fairy of Anar
+3                    Apahrita a.k.a. The Kidnapped Girl
+4                 A Throw Of Dice a.k.a. Prapancha Pash
+5        Baghdad Nu Baharvatiyo a.k.a. Thief of Baghdad
+6        Bahadur Baharvatiyo a.k.a. Terror of the Hills
+7                                             Bangabala
+8     Baji Prabhu Deshpande a.k.a. Valley of the Imm...
+9                      Be Dhari Talwar a.k.a. Challenge
+10                   Bhedi Sawar a.k.a. Masked Cavalier
+11                                      Bhool Bhulaiyan
+12                            Bicharak a.k.a. The Judge
+13                     Bilwamangal a.k.a. Bhakta Surdas
+14                          Bikharan a.k.a. Beggar Girl
+15                 Blood For Blood a.k.a. Raktacha Sood
+16                      Bolti Tapeli a.k.a. Talking Pot
+17                    Broken Hearts a.k.a. Zakhmi Jigar
+18                                          Chandrahasa
+19                Chandramukhi a.k.a. Moon-Faced Beauty
+20             Chirag-e-Kohistan a.k.a. Lamp of the Hut
+21                     Choice Of A Bride a.k.a. Kishori
+22                                            Collegian
+23               Dagakhor Dilbar a.k.a. King's Paramour
+24                     Daring Rathod a.k.a. Veer Rathod
+25                                        Dashrathi Ram
+26                       Dilruba a.k.a. Belle of Bombay
+27             Dharma Patni a.k.a. The Ideal Hindu Wife
+Name: Title, dtype: object
+0            A Friend In Need a.k.a. Geeta Rahasya
+1             Amrit Ki Zaher a.k.a. Wine And Woman
+2     Anarkali a.k.a. The Loves of a Moghul Prince
+3                                    Ankh Ka Nasha
+4                                 Balaji Nimbalkar
+5         Bhai Ke Kasai a.k.a. His Father's Honour
+6              Bishabriksha a.k.a. The Poison Tree
+7               Bhakta Damaji a.k.a. Devout Damaji
+8                                        Bhasmasur
+9                           Bhranti a.k.a. Mistake
+10       Brother To Brother a.k.a. Tarunina Tarang
+11           Celestial Lotus a.k.a. Pandav Patrani
+12                                 Chamakti Chanda
+13                                     Chandrahasa
+14          Chandravali a.k.a. The Crown of Virtue
+15                Chatur Kanta a.k.a. Chatur Kanya
+Name: Title, dtype: object
+0                  Adbhoot Khoon a.k.a. Horrible Murder
+1                A Fair Warrior a.k.a. Shoor Killedarin
+2     Alladin and His Wonderful Lamp a.k.a. Alladdin...
+3                                        Allah Ka Pyara
+4     Alibaba and the Forty Thieves a.k.a. Alibaba C...
+5                                           Asuri Lalsa
+6     At The Clang Of Fetters a.k.a. Janjir Ne Jhank...
+7                              Balidan a.k.a. Sacrifice
+8                Bansari Bala a.k.a. Fairy Of The Flute
+9                     Be Ghadi Mouj a.k.a. Pleasure Mad
+10                                        Bhakta Sudama
+11                 Bhaneli Bhamini a.k.a. Educated Wife
+12                 Bhedi Trishul a.k.a. Hidden Treasure
+13    Bhim Sanjivan a.k.a. How Bhim Was Brought Back...
+14             Chandidas a.k.a. Shree Krishna's Devotee
+15            Cultured Criminal a.k.a. Sudheral Shaitan
+Name: Title, dtype: object
+0       Abala Rani a.k.a. The Queen Who Would Not Speak
+1         A Crown For Two Days a.k.a. Be Din Nu Badshah
+2                                           Ajab Kumari
+3                        Amar Asha a.k.a. Immortal Hope
+4             Asha a.k.a. Hope a.k.a. Andhli Phool Wali
+5                                      Balaji Nimbalkar
+6                   Bhagwa Zenda a.k.a. The Orange Flag
+7                  Bhakta Prahlad a.k.a. Devout Prahlad
+8                   Bhasmasur Vadh a.k.a. Prithvi Putra
+9     Bolti Bulbul a.k.a. The Talking Nightingale a....
+10                                  Briefless Barrister
+11    Bulbule Paristan a.k.a. The Nightingale From T...
+12                       Burkhawali a.k.a. Veiled Enemy
+13                                       Chatra Bakavli
+14    Cinema Queen a.k.a. Love's Sacrifice a.k.a. Ci...
+Name: Title, dtype: object
+0                  Amarsinh Daggar a.k.a. Marwad's Moti
+1                                            Anant Vrat
+2                  Baap Kamai a.k.a. Fortunes And Fools
+3                                       Bajirao Mastani
+4                Bhadra Bhamini a.k.a. Test Of Chastity
+5                          Black Thief a.k.a. Kala Chor
+6                     Chalu Zamana a.k.a. Chalti Duniya
+7                        Chandrakant a.k.a. Filial Duty
+8                                       Chandrarao More
+9     Charkha a.k.a. The Spinning Wheel a.k.a. Anath...
+10                                 Chhatrapati Sambhaji
+11                        Child Widow a.k.a. Bal Vidhva
+12                   Cinema Queen a.k.a. Cinema Ki Rani
+13                     Devadasi a.k.a. The Bride Of God
+14                                       Devi Ahilyabai
+15                   Dream Of Life a.k.a. Sansar Swapna
+16                  Five Divine Wands a.k.a. Panchdanda
+17                  For Mother's Sake a.k.a. Matri Prem
+Name: Title, dtype: object
+0                              Ahiravan Mahiravan Vadha
+1                                                Ajamil
+2              Andhare Alo a.k.a. The Influence Of Love
+3                           Ashoka a.k.a. Samrat Ashoka
+4                                       Bhakta Ambarish
+5     Bhakta Shiromani a.k.a. Rajrishi Ambarish a.k....
+6                   Bhartrahari a.k.a. King Bhartrahari
+7                                               Bhishma
+8                                   Bhishma Bana Shayya
+9                                      Bhishma Pratigna
+10                Bidyasundar a.k.a. The Lover's Trance
+11         Bimata a.k.a. Bijoy Basant a.k.a. Stepmother
+12    Bisha Briksha a.k.a. Bishabriksha a.k.a. Poiso...
+13    Bodana a.k.a. Bhakta Bodhana a.k.a. Shri Ranch...
+Name: Title, dtype: object
+0                                                Behula
+1                      Belgian Emperor's Visit To India
+2                                          Bhakta Vidur
+3                  Bilet Pherat a.k.a. England Returned
+4                                           Chandrahasa
+5                                      Dabbur Kelenkari
+6            Dhruva Charitra a.k.a. The Story Of Dhruva
+7                       King Gopichand a.k.a. Gopichand
+8                                       Govardhan Dhari
+9     Jagat Janani Jagadamba a.k.a. Ma Durga a.k.a. ...
+10                       Krishna Kumar a.k.a. Pradyumna
+11                                         Krishna Maya
+12    Mahasati Ansuya a.k.a. Sati Ansuya a.k.a. Birt...
+13                             Meerabai a.k.a. Mira Bai
+14                                               Mohini
+15                                        Nal Damayanti
+16                                             Pundalik
+17                                             Pundalik
+Name: Title, dtype: object
+0                        Balika Badhu a.k.a. Baby Bride
+1                      Daksha Yagna a.k.a. Sati Parvati
+2             Jalandhar Vrinda a.k.a. Sati Tulsi Vrinda
+3             Kansa Vadha a.k.a. End Of The Tyrant King
+4     Katorabhar Khoon a.k.a.The Stinger Stung a.k.a...
+5             Krishna Sudama a.k.a. Shri Krishna Sudama
+6                                            Lava Kusha
+7                                           Mahabharata
+8                                          Mrichhakatik
+9                                       Narasinha Avtar
+10                                        Narsinh Mehta
+11                                            Ram Janma
+12                                         Rama Or Maya
+13                                           Sairandhri
+14                                           Shakuntala
+15                                           Shakuntala
+16                                   Shri Krishna Leela
+17                                      Shri Rama Janma
+18                Sita Swayamwar a.k.a. Sita's Marriage
+19           The Enchanted Pills a.k.a. Vichitra Gutika
+20                                       Vikram Urvashi
+Name: Title, dtype: object
+0                        Balika Badhu a.k.a. Baby Bride
+1                      Daksha Yagna a.k.a. Sati Parvati
+2             Jalandhar Vrinda a.k.a. Sati Tulsi Vrinda
+3             Kansa Vadha a.k.a. End Of The Tyrant King
+4     Katorabhar Khoon a.k.a.The Stinger Stung a.k.a...
+5             Krishna Sudama a.k.a. Shri Krishna Sudama
+6                                            Lava Kusha
+7                                           Mahabharata
+8                                          Mrichhakatik
+9                                       Narasinha Avtar
+10                                        Narsinh Mehta
+11                                            Ram Janma
+12                                         Rama Or Maya
+13                                           Sairandhri
+14                                           Shakuntala
+15                                           Shakuntala
+16                                   Shri Krishna Leela
+17                                      Shri Rama Janma
+18                Sita Swayamwar a.k.a. Sita's Marriage
+19           The Enchanted Pills a.k.a. Vichitra Gutika
+20                                       Vikram Urvashi
+Name: Title, dtype: object
+0                                                Behula
+1                      Belgian Emperor's Visit To India
+2                                          Bhakta Vidur
+3                  Bilet Pherat a.k.a. England Returned
+4                                           Chandrahasa
+5                                      Dabbur Kelenkari
+6            Dhruva Charitra a.k.a. The Story Of Dhruva
+7                       King Gopichand a.k.a. Gopichand
+8                                       Govardhan Dhari
+9     Jagat Janani Jagadamba a.k.a. Ma Durga a.k.a. ...
+10                       Krishna Kumar a.k.a. Pradyumna
+11                                         Krishna Maya
+12    Mahasati Ansuya a.k.a. Sati Ansuya a.k.a. Birt...
+13                             Meerabai a.k.a. Mira Bai
+14                                               Mohini
+15                                        Nal Damayanti
+16                                             Pundalik
+17                                             Pundalik
+Name: Title, dtype: object
+0                              Ahiravan Mahiravan Vadha
+1                                                Ajamil
+2              Andhare Alo a.k.a. The Influence Of Love
+3                           Ashoka a.k.a. Samrat Ashoka
+4                                       Bhakta Ambarish
+5     Bhakta Shiromani a.k.a. Rajrishi Ambarish a.k....
+6                   Bhartrahari a.k.a. King Bhartrahari
+7                                               Bhishma
+8                                   Bhishma Bana Shayya
+9                                      Bhishma Pratigna
+10                Bidyasundar a.k.a. The Lover's Trance
+11         Bimata a.k.a. Bijoy Basant a.k.a. Stepmother
+12    Bisha Briksha a.k.a. Bishabriksha a.k.a. Poiso...
+13    Bodana a.k.a. Bhakta Bodhana a.k.a. Shri Ranch...
+Name: Title, dtype: object
+0                                            Babruwahan
+1     Bhakta Gora Kumbhar a.k.a. Gora Kumbhar The De...
+2                                       Bhakta Sudhanva
+3                         Buddha Dev a.k.a. Lord Buddha
+4                                         Champraj Hada
+5                                            Chintamoni
+6                   Durvas Shaap a.k.a. Curse Of Durvas
+7                     Gayatri Mahatmya a.k.a. Venukumar
+8             Guru Dronacharya a.k.a. Drona The Teacher
+9     Guru Machindranath a.k.a. Streeyaraj a.k.a. Th...
+10                                     Goswami Tulsidas
+11                       Janak Videhi a.k.a. King Janak
+12                                    Jara Sandha Vadha
+Name: Title, dtype: object
+0                                            Ashwathama
+1                         Atma Bal a.k.a. Sundar Kamdar
+2                           Bal Shringee or Bal Shringi
+3                                            Bali Yagna
+4     Bali Yagna a.k.a. Self-surrender At The Feet o...
+5                   Bismi Sadi a.k.a. Twentieth Century
+6                                       Bhakta Sudhanva
+7                                    Chandan Malayagiri
+8     Chandragupta And Mahatma Chanakya a.k.a. Chand...
+9                                           Chandranath
+10                       Datta Janma a.k.a. Sati Ansuya
+11           Dhruva Charitra a.k.a. The Story Of Dhruva
+12               Draupadi Bhagya a.k.a. Draupadi's Fate
+13           Gajendra Moksham a.k.a. Gajendra's Nirvana
+14                             Gomata a.k.a. Sacred Cow
+15                                       Gul-E-Bakavali
+16                                      Ishq No Umedwar
+17                                     Jayadratha Vadha
+Name: Title, dtype: object
+0                  Amarsinh Daggar a.k.a. Marwad's Moti
+1                                            Anant Vrat
+2                  Baap Kamai a.k.a. Fortunes And Fools
+3                                       Bajirao Mastani
+4                Bhadra Bhamini a.k.a. Test Of Chastity
+5                          Black Thief a.k.a. Kala Chor
+6                     Chalu Zamana a.k.a. Chalti Duniya
+7                        Chandrakant a.k.a. Filial Duty
+8                                       Chandrarao More
+9     Charkha a.k.a. The Spinning Wheel a.k.a. Anath...
+10                                 Chhatrapati Sambhaji
+11                        Child Widow a.k.a. Bal Vidhva
+12                   Cinema Queen a.k.a. Cinema Ki Rani
+13                     Devadasi a.k.a. The Bride Of God
+14                                       Devi Ahilyabai
+15                   Dream Of Life a.k.a. Sansar Swapna
+16                  Five Divine Wands a.k.a. Panchdanda
+17                  For Mother's Sake a.k.a. Matri Prem
+Name: Title, dtype: object
+0       Abala Rani a.k.a. The Queen Who Would Not Speak
+1         A Crown For Two Days a.k.a. Be Din Nu Badshah
+2                                           Ajab Kumari
+3                        Amar Asha a.k.a. Immortal Hope
+4             Asha a.k.a. Hope a.k.a. Andhli Phool Wali
+5                                      Balaji Nimbalkar
+6                   Bhagwa Zenda a.k.a. The Orange Flag
+7                  Bhakta Prahlad a.k.a. Devout Prahlad
+8                   Bhasmasur Vadh a.k.a. Prithvi Putra
+9     Bolti Bulbul a.k.a. The Talking Nightingale a....
+10                                  Briefless Barrister
+11    Bulbule Paristan a.k.a. The Nightingale From T...
+12                       Burkhawali a.k.a. Veiled Enemy
+13                                       Chatra Bakavli
+14    Cinema Queen a.k.a. Love's Sacrifice a.k.a. Ci...
+Name: Title, dtype: object
+0                  Adbhoot Khoon a.k.a. Horrible Murder
+1                A Fair Warrior a.k.a. Shoor Killedarin
+2     Alladin and His Wonderful Lamp a.k.a. Alladdin...
+3                                        Allah Ka Pyara
+4     Alibaba and the Forty Thieves a.k.a. Alibaba C...
+5                                           Asuri Lalsa
+6     At The Clang Of Fetters a.k.a. Janjir Ne Jhank...
+7                              Balidan a.k.a. Sacrifice
+8                Bansari Bala a.k.a. Fairy Of The Flute
+9                     Be Ghadi Mouj a.k.a. Pleasure Mad
+10                                        Bhakta Sudama
+11                 Bhaneli Bhamini a.k.a. Educated Wife
+12                 Bhedi Trishul a.k.a. Hidden Treasure
+13    Bhim Sanjivan a.k.a. How Bhim Was Brought Back...
+14             Chandidas a.k.a. Shree Krishna's Devotee
+15            Cultured Criminal a.k.a. Sudheral Shaitan
+Name: Title, dtype: object
+0            A Friend In Need a.k.a. Geeta Rahasya
+1             Amrit Ki Zaher a.k.a. Wine And Woman
+2     Anarkali a.k.a. The Loves of a Moghul Prince
+3                                    Ankh Ka Nasha
+4                                 Balaji Nimbalkar
+5         Bhai Ke Kasai a.k.a. His Father's Honour
+6              Bishabriksha a.k.a. The Poison Tree
+7               Bhakta Damaji a.k.a. Devout Damaji
+8                                        Bhasmasur
+9                           Bhranti a.k.a. Mistake
+10       Brother To Brother a.k.a. Tarunina Tarang
+11           Celestial Lotus a.k.a. Pandav Patrani
+12                                 Chamakti Chanda
+13                                     Chandrahasa
+14          Chandravali a.k.a. The Crown of Virtue
+15                Chatur Kanta a.k.a. Chatur Kanya
+Name: Title, dtype: object
+0                   All for Money a.k.a. Paisa Na Gulam
+1               Akalmand Bewaqoof a.k.a. Foolish Wisdom
+2                         Anarbala a.k.a. Fairy of Anar
+3                    Apahrita a.k.a. The Kidnapped Girl
+4                 A Throw Of Dice a.k.a. Prapancha Pash
+5        Baghdad Nu Baharvatiyo a.k.a. Thief of Baghdad
+6        Bahadur Baharvatiyo a.k.a. Terror of the Hills
+7                                             Bangabala
+8     Baji Prabhu Deshpande a.k.a. Valley of the Imm...
+9                      Be Dhari Talwar a.k.a. Challenge
+10                   Bhedi Sawar a.k.a. Masked Cavalier
+11                                      Bhool Bhulaiyan
+12                            Bicharak a.k.a. The Judge
+13                     Bilwamangal a.k.a. Bhakta Surdas
+14                          Bikharan a.k.a. Beggar Girl
+15                 Blood For Blood a.k.a. Raktacha Sood
+16                      Bolti Tapeli a.k.a. Talking Pot
+17                    Broken Hearts a.k.a. Zakhmi Jigar
+18                                          Chandrahasa
+19                Chandramukhi a.k.a. Moon-Faced Beauty
+20             Chirag-e-Kohistan a.k.a. Lamp of the Hut
+21                     Choice Of A Bride a.k.a. Kishori
+22                                            Collegian
+23               Dagakhor Dilbar a.k.a. King's Paramour
+24                     Daring Rathod a.k.a. Veer Rathod
+25                                        Dashrathi Ram
+26                       Dilruba a.k.a. Belle of Bombay
+27             Dharma Patni a.k.a. The Ideal Hindu Wife
+Name: Title, dtype: object
+0                 A Prince Indeed a.k.a. Veer Bhushan
+1                Ace Of Swords a.k.a. Talwar Ka Phani
+2                        Alik Babu a.k.a. Master Liar
+3                 All For The Crown a.k.a. Khooni Taj
+4                                          Amar Kirti
+5                 An Ideal Woman a.k.a. Adarsh Ramani
+6              Arunodaya a.k.a. The Rising Sun (Dawn)
+7                          Avarice a.k.a. Aghor Lalsa
+8                            Avenged a.k.a. Ver Vasul
+9     Bandit Of Baghdad a.k.a. Baghdad Nu Baharvatiyo
+10                 Beggar Meets Beggar a.k.a. Rajdoot
+11        Behram the Bandit a.k.a. Baharvatiyo Behram
+12                  Beloved Rogue a.k.a. Albelo Sawar
+13          Benevolent Bravery a.k.a. Shurana Sangram
+14      Bharat Ramani a.k.a. The Enchantress of India
+15                                 Bhimsen the Mighty
+16                  Brand Of Fate a.k.a. Bhola Shikar
+Name: Title, dtype: object
+0                           Aatishe Ishq
+1         Abhishek a.k.a. The Anointment
+2                             Abul Hasan
+3                            Afghan Abla
+4                               Alam Ara
+5                          Albeli Mumbai
+6         Alladin and the Wonderful Lamp
+7                              Amir Khan
+8           Aparadhi a.k.a. The Criminal
+9      Asire Hirs a.k.a. Nemesis of Lust
+10    Awara Raqasa a.k.a. Bhatakta Joban
+11                            Anang Sena
+Name: Title, dtype: object
+0     Alibaba And Forty Thieves
+1                  Ankh Ka Tara
+2               Ayodhya Ka Raja
+3                Bhakta Prahlad
+4                  Bharati Mata
+5                   Bhartruhari
+6              Bhasmasur Mohini
+7                  Bhutia Mahal
+8                   Bilwamangal
+9                   Bishnu Maya
+10             Bulbul-E-Baghdad
+Name: Title, dtype: object
+0                       Aab-E-Hayat
+1                             Afzal
+2                        Alif Laila
+3    Alladin And His Wonderful Lamp
+4                     Ankh Ka Nasha
+5                      Aurat Ka Dil
+6                     Aurat Ka Pyar
+7                    Awara Shehzada
+Name: Title, dtype: object
+0                             Aaj Kal
+1     Actress a.k.a. Bambai Ki Mohini
+2                     Adil-E-Jehangir
+3                         Afghan Abla
+4                              Ajamil
+5           Akashwani a.k.a. Prophecy
+6                            Ambarish
+7                              Ameena
+8                            Amirzadi
+9                       Amrit Manthan
+10                        Anokha Prem
+11                    Anokhi Mohabbat
+Name: Title, dtype: object
+0    After The Earthquake a.k.a. Inquilab
+1                            Ahe Mazluman
+2       Al Hilal a.k.a. Judgemnt Of Allah
+3        Alladin II a.k.a. Aaj Ka Alladin
+4                                Anarkali
+5                                 Apradhi
+6                            Apradhi Abla
+7      Asmat Ka Moti a.k.a. Chirag-e-Arab
+8                               Azad Abla
+9                                   Azadi
+Name: Title, dtype: object
+0                     Achhut Kanya
+1     Ailane Jung a.k.a. Ultimatum
+2                      Akhri Galti
+3                       Amar Jyoti
+4                        Amar Prem
+5                     Amar Shaheed
+6                   Andheri Duniya
+7                 Ansuon Ki Duniya
+8                     Aseere Hawas
+9                          Ashiana
+10        Azad Veer a.k.a. Revenge
+Name: Title, dtype: object
+0        Adarsh Mahila
+1             Aflatoon
+2         Anath Ashram
+3         Asiai Sitara
+4          Atma Tarang
+5     Aurat Ki Zindagi
+6          Badhe Chalo
+7         Banke Sipahi
+8              Begunah
+9      Bharat Ka Jiwan
+10     Bismil Ki Arzoo
+11             Bulldog
+Name: Title, dtype: object
+0                                               Abhagin
+1                                               Adhikar
+2     Alauddin Aur Jadui Chirag a.k.a. Alladin And T...
+3                                                  Asha
+4                                               Baghban
+5                                         Bahadur Kisan
+6                                        Ban Ki Chidiya
+7                                        Banke Sawariya
+8                                               Bazigar
+9                                                Bhabhi
+10                                         Bhedi Burkha
+11                                        Bhedi Trishul
+12                                 Billi a.k.a. The Cat
+13                                          Brahmachari
+Name: Title, dtype: object
+0                 Aadmi
+1          Aap Ki Marzi
+2     Actress Kyon Bani
+3         Adhuri Kahani
+4       Alladin Ka Beta
+5             Badi Didi
+6                 Baghi
+7        Bahadur Ramesh
+8           Bhedi Kumar
+9           Bhole Bhale
+10                Bijli
+11      Brandy Ki Botal
+Name: Title, dtype: object
+0                     Aaj Ka Hindustan
+1                        Aaj Ki Duniya
+2                               Aandhi
+3                       Abla Ki Shakti
+4                               Achhut
+5                       Aflatoon Aurat
+6     Alakh Niranjan a.k.a. Gorakhnath
+7                             Ali Baba
+8                             Anarbala
+9                               Anjaam
+10                            Anuradha
+11                       Apni Nagariya
+12                               Aurat
+13                                Azad
+14                       Azadi-e-Watan
+Name: Title, dtype: object
+0                                       Aasra
+1                                        Abla
+2                                       Akela
+3                              Allaudin Laila
+4                                       Amrit
+5                                      Anjaan
+6                                       Bahen
+7     Bambai Ki Sair a.k.a. Holiday in Bombay
+8                                        Beti
+9                     Bombaiwali (Bambaiwali)
+10                            Bulbule Baghdad
+Name: Title, dtype: object
+0     Aankh Michouli
+1          Amar Asha
+2          Apna Ghar
+3        Apna Paraya
+4             Armaan
+5              Arzoo
+6              Awaaz
+7             Bahana
+8              Barat
+9             Basant
+10      Bhakta Kabir
+11      Bharat Milap
+12     Bhakta Surdas
+13          Blackout
+14      Bolti Bulbul
+15    Bombay Calling
+16           Chandni
+17       Chauranghee
+18          Chudiyan
+Name: Title, dtype: object
+0                      Aabroo
+1                   Aadab Arz
+2                  Aage Kadam
+3              Aankh Ki Sharm
+4                     Amaanat
+5                     Andhera
+6                     Angoori
+7                Andhi Duniya
+8                    Angoothi
+9                    Ashirwad
+10             Badalti Duniya
+11                      Badla
+12                    Bansari
+13               Bhagta Bhoot
+14                  Bhaichara
+15              Bhakta Raidas
+16                  Bhaktaraj
+17                     Bhalai
+18                Chhed Chhad
+19    Chhoti Maa a.k.a. Nurse
+20                     Chirag
+21                      Duhai
+22                     Dulhan
+23              Duniya Diwani
+Name: Title, dtype: object
+0                     Aaina
+1                     Anban
+2          Bade Nawab Saheb
+3                 Badi Baat
+4                   Badmash
+5                   Bahadur
+6                     Bahar
+7                Bandukwali
+8                 Beda Paar
+9              Bhagya Laxmi
+10                     Bhai
+11                 Bhanvara
+12              Bhartrahari
+13                  Caravan
+14    Chal Chal Re Naujawan
+15                    Chand
+16             Char Aankhen
+Name: Title, dtype: object
+0             Aarti
+1             Adhar
+2            Albeli
+3           Alladin
+4            Amiree
+5          Amrapali
+6           Bachpan
+7          Badi Maa
+8         Ban Phool
+9             Begum
+10        Bhai Jaan
+11       Bisvi Sadi
+12           Champa
+13    Chand Chakori
+14       Chand Tara
+15          Chhamia
+Name: Title, dtype: object
+0                       1857
+1     Aath Din a.k.a. 8 Days
+2                  Aai Bahar
+3           Aap Ki Sewa Mein
+4                    Airmail
+5                    Alibaba
+6                   Amar Raj
+7                Anmol Ghadi
+8             Arabian Nights
+9              Arab Ka Chand
+10            Arab Ka Sitara
+11                 Attention
+12                      Baap
+13          Bachchon Ka Khel
+14                   Badnami
+15           Baghdad Ka Chor
+16               Behram Khan
+17            Bhakta Prahlad
+18             Bhedi Dushman
+19             Bhedi Khazana
+20                   Bindiya
+21           Black and White
+22               Black Shirt
+23             Brahman Kanya
+Name: Title, dtype: object
+0            Aage Badho
+1           Aaj Aur Kal
+2      Aap Ki Sewa Mein
+3                Abidah
+4                Ajamil
+5                Ahinsa
+6             Amar Asha
+7      Andhon Ki Duniya
+8            Angoorbala
+9                  Arsi
+10            Atom Bomb
+11            Attention
+12          Azad Jeevan
+13       Bahadur Pratap
+14            Barrister
+15            Beete Din
+16                 Bela
+17            Bhai Dooj
+18        Bhakta Dhruva
+19    Bhakta Ke Bhagwan
+20              Bhanwar
+21       Bhatakti Maina
+22               Bhookh
+23       Bhool Na Jaana
+24         Black Market
+25        Bulbul-e-Iran
+26           But Tarash
+Name: Title, dtype: object
+0             11 O'Clock
+1                    Aag
+2          Aaj Ka Farhad
+3            Aaj Ki Raat
+4              Aap Beeti
+5                Actress
+6                 Adalat
+7                 Ajamil
+8                   Ajit
+9              Amar Prem
+10      Andhon Ka Sahara
+11             Anjangarh
+12               Anjuman
+13            Anokhi Ada
+14           Anokha Pyar
+15                  Asha
+16        Azad Hindustan
+17     Azadi Ki Raah Par
+18        Bahadur Jeevan
+19        Bahadur Naresh
+20                 Balma
+21               Banjare
+22               Banwasi
+23     Barsat Ki Ek Raat
+24    Bhakta Bilwamangal
+25    Bhakta Gopalbhaiya
+26                 Bhool
+27       Bichchade Balam
+28                Bihari
+29                Birhan
+Name: Title, dtype: object
+0             C.I.D.
+1       Ek Hi Raasta
+2        Chori Chori
+3       Basant Bahar
+4          New Delhi
+5           Raj Hath
+6          Bhai-Bhai
+7    Toofan Aur Diya
+8           Funtoosh
+9          Inspector
+Name: Title, dtype: object
+0                     Mughal-e-Azam
+1                   Barsaat Ki Raat
+2                          Kohinoor
+3                Chaudhvin Ka Chand
+4     Jis Desh Mein Ganga Behti Hai
+5         Dil Apna Aur Preet Parayi
+6                     Love in Simla
+7                          Ghunghat
+8                            Kanoon
+9                        Kala Bazar
+10                          Chhalia
+11                   Hum Hindustani
+Name: Title, dtype: object
+0                 Sangam
+1     Ayee Milan Ki Bela
+2                  Dosti
+3                  Ziddi
+4               Rajkumar
+5        Kashmir Ki Kali
+6               Haqeeqat
+7                Zindagi
+8           Woh Kaun Thi
+9             April Fool
+10                Leader
+11             Beti Bete
+12                Samson
+13          Dulha Dulhan
+14         Door Ki Awaaz
+Name: Title, dtype: object
+0     Aadhi Raat Ke Baad
+1           Aasman Mahal
+2              Akashdeep
+3                  Arzoo
+4                 Bedaag
+             ...        
+68           Teen Devian
+69           Teen Sardar
+70           Teesra Kaun
+71                  Waqt
+72      Zindagi Aur Maut
+Name: Title, Length: 73, dtype: object
+0    Phool Aur Patthar
+1                Suraj
+2           Mera Saaya
+3        Teesri Manzil
+4        Love in Tokyo
+5             Do Badan
+6    Aaye Din Bahar Ke
+7       Sawan Ki Ghata
+8        Pyar Kiye Jaa
+9             Dus Lakh
+Name: Title, dtype: object
+0                   Upkar
+1           Ram Aur Shyam
+2                    Farz
+3                 Hamraaz
+4                 Shagird
+5             Jewel Thief
+6                   Milan
+7     An Evening in Paris
+8        Patthar Ke Sanam
+9            Raat Aur Din
+10                   Aman
+11                    Aag
+12            Aamne Samne
+13        Night in London
+14       Around the World
+Name: Title, dtype: object
+0                    Ankhen
+1               Do Kaliyaan
+2                Neel Kamal
+3                 Kanyadaan
+4                    Shikar
+5                   Padosan
+6               Brahmachari
+7                     Aadmi
+8       Haseena Maan Jayegi
+9                    Duniya
+10                   Saathi
+11                Sunghursh
+12    Mere Hamdam Mere Dost
+13        Jhuk Gaya Aasmaan
+14                    Izzat
+15              Mere Huzoor
+16       Sadhu Aur Shaitaan
+17                   Kismat
+18              Man Ka Meet
+19                    Gauri
+Name: Title, dtype: object
+0                  Aradhana
+1                 Do Raaste
+2          Ek Phool Do Mali
+3                    Prince
+4                   Inteqam
+5             Jeene Ki Raah
+6        Aya Sawan Jhoom Ke
+7                   Bandhan
+8                     Sajan
+9         Waris (1969 film)
+10                   Yakeen
+11               Jigri Dost
+12                     Doli
+13             Pyar Hi Pyar
+14                  Talaash
+15         Aadmi Aur Insaan
+16                   Chirag
+17                  Ittefaq
+18                  Anjaana
+19     Tumse Achha Kaun Hai
+20                  Vishwas
+21           Pyar Ka Mausam
+22                Raja Saab
+23    Aansoo Ban Gaye Phool
+24          Jahan Pyar Mile
+25                 Satyakam
+Name: Title, dtype: object
+0            Johny Mera Naam
+1              Sachaa Jhutha
+2             Aan Milo Sajna
+3          Purab Aur Paschim
+4              Jeevan Mrityu
+5                    Khilona
+6                   Sharafat
+7                    Humjoli
+8                      Safar
+9     Tum Haseen Main Jawaan
+10                      Gopi
+11    Kab? Kyoon? Aur Kahan?
+12                   Pehchan
+13                   Ganwaar
+14                 Bhai-Bhai
+15                 The Train
+16              Sawan Bhadon
+17                      Geet
+18                 Abhinetri
+19                    Dharti
+Name: Title, dtype: object
+0     Aap Aye Bahaar Ayee
+1                 Adhikar
+2       Aisa Bhi Hota Hai
+3                  Albela
+4                   Anand
+             ...         
+86            Tulsi Vivah
+87                 Ummeed
+88                Upaasna
+89                 Uphaar
+90      Woh Din Yaad Karo
+Name: Title, Length: 91, dtype: object
+0                 Aan Baan
+1            Aankh Micholi
+2     Aankhon Aankhon Mein
+3                Amar Prem
+4                 Annadata
+              ...         
+92               Yaar Mera
+93     Yeh Gulistan Hamara
+94           Zameen Aasman
+95                Zaroorat
+96         Zindagi Zindagi
+Name: Title, Length: 97, dtype: object
+0          Aa Gale Lag Jaa
+1      Aaj Ki Taaza Khabar
+2                   Aangan
+3                 Abhimaan
+4                  Achanak
+              ...         
+77        Shareef Budmaash
+78    Wohi Raat Wohi Awaaz
+79       Yaadon Ki Baaraat
+80                  Yauwan
+81                 Zanjeer
+Name: Title, Length: 82, dtype: object
+0                    27 Down
+1                  36 Ghante
+2                   5 Rifles
+3     Aahat – Ek Ajib Kahani
+4               Aap Ki Kasam
+               ...          
+95                  Trimurti
+96                   Us Paar
+97                    Vachan
+98            Woh Main Nahin
+99           Zehreela Insaan
+Name: Title, Length: 100, dtype: object
+0           Aa Jaa Sanam
+1         Aag Aur Toofan
+2            Aakhri Daao
+3               Aakraman
+4                 Aandhi
+             ...        
+77               Zakhmee
+78                Zameer
+79             Zinda Dil
+80    Zindagi Aur Toofan
+81                 Zorro
+Name: Title, Length: 82, dtype: object
+0      Aaj Ka Mahaatma
+1       Aaj Ka Ye Ghar
+2            Aap Beati
+3              Aarambh
+4               Adalat
+            ...       
+72     Udhar Ka Sindur
+73     Veer Bhagdavalo
+74    Zamane Se Poocho
+75                 Zid
+76             Zindagi
+Name: Title, Length: 77, dtype: object
+0        Aadmi Sadak Ka
+1                 Aafat
+2                 Aaina
+3           Aakhri Goli
+4          Aakhri Sajda
+             ...       
+99         Vishwasghaat
+100      Yaaron Ka Yaar
+101    Yehi Hai Zindagi
+102            Zamaanat
+103            Zehreeli
+Name: Title, Length: 104, dtype: object
+0     Ashok V. Bhushan
+1        Prakash Mehra
+2           Homi Wadia
+3     Harmesh Malhotra
+4        Samir Ganguly
+            ...       
+79        Anil Ganguly
+80         Yash Chopra
+81     Basu Chatterjee
+82         Ravi Chopra
+83        Subhash Ghai
+Name: Title, Length: 84, dtype: object
+0       Aaj Ki Dhara
+1       Aakhri Kasam
+2     Aangan Ki Kali
+3             Aatish
+4             Ahinsa
+           ...      
+82         Surakksha
+83           Taraana
+84       Teen Chehre
+85    Tere Pyar Mein
+86           Yuvraaj
+Name: Title, Length: 87, dtype: object
+0                 Aakrosh
+1                 Aanchal
+2          Aap Ke Deewane
+3      Aap To Aise Na The
+4                   Aasha
+              ...        
+108            Unees-Bees
+109         Yari Dushmani
+110      Yeh Kaisa Insaf?
+111     Zakhmon Ke Nishan
+112                 Zalim
+Name: Title, Length: 113, dtype: object
+0               Aakhri Mujra
+1          Aankhon Ke Saamne
+2              Aapas Ki Baat
+3                   Aas Paas
+4             Agni Pareeksha
+               ...          
+110                   Wardat
+111      Woh Phir Nahin Aaye
+112                  Yaraana
+113     Yeh Rishta Na Tootay
+114    Zamane Ko Dikhana Hai
+Name: Title, Length: 115, dtype: object
+0           Aadat Se Majboor
+1                    HmHyatt
+2                Aadharshila
+3                    Aagaman
+4                Aamne Samne
+               ...          
+127        Waqt-Waqt Ki Baat
+128          Yeh Nazdeekiyan
+129    Yeh To Kamaal Ho Gaya
+130           Yeh Vaada Raha
+131           Zakhmee Insaan
+Name: Title, Length: 132, dtype: object
+0               Aao Pyaar Karen
+1                    Achha Bura
+2              Agar Tum Na Hote
+3                     Agent 123
+4                  Andha Kanoon
+                 ...           
+99                 Woh Saat Din
+100    Yahan Se Shehar Ko Dekho
+101                  Zakhmi Dil
+102             Zara Si Zindagi
+103           Zulf Ke Saye Saye
+Name: Title, Length: 104, dtype: object
+0      Aaj Ka M.L.A. Ram Avtar
+1                 Aaj Ki Awaaz
+2               Aakhri Sangram
+3                Aan Aur Shaan
+4                      Aasmaan
+                ...           
+126      Yeh Ishq Nahin Aasaan
+127            Yeh Kahani Nahi
+128                Zakhmi Sher
+129              Zameen Aasman
+130      Zindagi Jeene Ke Liye
+Name: Title, Length: 131, dtype: object
+0        Aaj Ka Daur
+1      Aaj Ke Sholey
+2       Aakhir Kyon?
+3      Aandhi-Toofan
+4           Aar Paar
+           ...      
+130       Yaar Kasam
+131             Yudh
+132        Zabardast
+133           Zamana
+134    Zulm Ka Badla
+Name: Title, Length: 135, dtype: object
+0                                  Aadamkhor
+1                              Aag Aur Shola
+2                             Aakhree Raasta
+3                               Aap Ke Saath
+4                                   Aashiana
+5                                    Adhikar
+6                           Aisa Pyaar Kahan
+7                                     Albela
+8                                Allah Rakha
+9                                       Amma
+10                                     Amrit
+11                              Anaadi Anant
+12                            Andaz Pyaar Ka
+13    Andheri Raat Mein Diya Tere Haath Mein
+14                                  Angaaray
+15                                    Ankush
+16                             Anokha Insaan
+17                             Anokha Rishta
+18                                   Anubhav
+19                                Asli Naqli
+20                                   Avinash
+21                             Baat Ban Jaye
+22                                     Babul
+23                                   Badkaar
+24                                   Begaana
+25                             Bhagwaan Dada
+26                      Bhai Ka Dushman Bhai
+27                                 Car Thief
+28                        Chambal Ka Badshah
+29                         Chameli Ki Shaadi
+30                              Chhota Aadmi
+31                              Congregation
+32                                   Dahleez
+33                               Daku Bijlee
+34                              Dancing City
+35                            Dharm Adhikari
+36                                  Dilwaala
+37                            Dosti Dushmani
+38                                Durgaa Maa
+39                                      Duty
+Name: Title, dtype: object
+0              108 Teerthyatra
+1                  7 Saal Baad
+2                   Aag Hi Aag
+3                 Aage Mod Hai
+4                          Aaj
+                ...           
+105          Watan Ke Rakhwale
+106             Woh Din Aayega
+107    Yeh Woh Manzil To Nahin
+108                     Zameen
+109                      Zevar
+Name: Title, Length: 110, dtype: object
+0                    Tezaab
+1                Shahenshah
+2            Paap Ki Duniya
+3    Qayamat Se Qayamat Tak
+4         Khoon Bhari Maang
+Name: Title, dtype: object
+0    Maine Pyar Kiya
+1         Ram Lakhan
+2            Chandni
+3             Tridev
+4          ChaalBaaz
+5       Elaan-E-Jung
+6              Daata
+7            Batwara
+8            Parinda
+9             Toofan
+Name: Title, dtype: object
+0                             Dil
+1                          Ghayal
+2                    Aaj Ka Arjun
+3                       Agneepath
+4                 Kishen Kanhaiya
+5                       Thanedaar
+6                        Aashiqui
+7                          Baaghi
+8                           Swarg
+9     Baap Numbri Beta Dus Numbri
+10                Ghar Ho To Aisa
+Name: Title, dtype: object
+0                  100 Days
+1              Aadi Mimansa
+2      Aag Laga Do Sawan Ko
+3             Aaj Ka Samson
+4             Aakhri Cheekh
+               ...         
+126            Vishnu-Devaa
+127           Yaara Dildara
+128     Yeh Aag Kab Bujhegi
+129                   Yodha
+130                   Zaher
+Name: Title, Length: 131, dtype: object
+0                 Beta
+1              Deewana
+2          Khuda Gawah
+3    Shola Aur Shabnam
+4              Tahalka
+Name: Title, dtype: object
+0    Hum Aapke Hain Koun..!
+1                     Mohra
+2                Krantiveer
+3                 Raja Babu
+4     Main Khiladi Tu Anari
+5               Yeh Dillagi
+6                    Laadla
+7                    Suhaag
+8                   Dilwale
+9                 Vijaypath
+Name: Title, dtype: object
+0    Dilwale Dulhania Le Jayenge
+1                    Karan Arjun
+2                           Raja
+3                       Rangeela
+4                        Barsaat
+5                   Coolie No. 1
+6             Sabse Bada Khiladi
+7                       Trimurti
+8                      Ram Jaane
+9            Akele Hum Akele Tum
+Name: Title, dtype: object
+0          Raja Hindustani
+1                   Ghatak
+2    English Babu Desi Mem
+3              Agni Sakshi
+4                     Jeet
+5    Khiladiyon Ka Khiladi
+Name: Title, dtype: object
+0           Dil To Pagal Hai
+1                     Border
+2                     Judwaa
+3                       Ishq
+4                     Pardes
+5     Gupt: The Hidden Truth
+6                      Ziddi
+7                 Hero No. 1
+8                      Koyla
+9                     Judaai
+10           Deewana Mastana
+Name: Title, dtype: object
+0            Kuch Kuch Hota Hai
+1                       Soldier
+2          Pyaar To Hona Hi Tha
+3       Pyaar Kiya To Darna Kya
+4                      Dil Se..
+5                        Ghulam
+6                    Major Saab
+7                    Dulhe Raja
+8                    China Gate
+9     Jab Pyaar Kisise Hota Hai
+10                        Satya
+Name: Title, dtype: object
+Empty DataFrame
+Columns: [(Hum Saath-Saath Hain, Biwi No.1, Hum Dil De Chuke Sanam, Sarfarosh, Haseena Maan Jaayegi, Daag: The Fire, Khoobsurat, Taal, Hum Aapke Dil Mein Rehte Hain, Baadshah)]
+Index: []
+Empty DataFrame
+Columns: [(Mohabbatein, Kaho Naa... Pyaar Hai, Mission Kashmir, Dulhan Hum Le Jayenge, Refugee, Josh, Har Dil Jo Pyar Karega, Fiza, Hamara Dil Aapke Paas Hai, Jungle)]
+Index: []
+0                     Devdas
+1                     Kaante
+2                       Raaz
+3     Hum Tumhare Hain Sanam
+4                    Aankhen
+5       Mujhse Dosti Karoge!
+6                    Humraaz
+7                   Saathiya
+8       Awara Paagal Deewana
+9                    Company
+10                 Deewangee
+Name: Title, dtype: object
+0                       No Entry
+1                Bunty Aur Babli
+2                 Salaam Namaste
+3                   Garam Masala
+4      Mangal Pandey: The Rising
+5         Maine Pyaar Kyun Kiya?
+6    Waqt: The Race Against Time
+7                          Black
+8                         Sarkar
+9                            Dus
+Name: Title, dtype: object
+Empty DataFrame
+Columns: [(Dhoom 2, Lage Raho Munna Bhai, Krrish, Kabhi Alvida Na Kehna, Don, Fanaa, Rang De Basanti, Phir Hera Pheri, Bhagam Bhag, Vivah)]
+Index: []
+Empty DataFrame
+Columns: [(Om Shanti Om, Welcome, Chak De! India, Partner, Taare Zameen Par, Heyy Babyy, Guru, Bhool Bhulaiyaa, Namastey London, Ta Ra Rum Pum)]
+Index: []
+0                                      PK
+1                          Happy New Year
+2                                    Kick
+3                              Bang Bang!
+4                         Singham Returns
+5                                  Jai Ho
+6    Holiday: A Soldier Is Never Off Duty
+7                                2 States
+8                              Ek Villain
+9                                  Gunday
+Name: Title, dtype: object
+0          Bajrangi Bhaijaan
+1       Prem Ratan Dhan Payo
+2                    Dilwale
+3            Bajirao Mastani
+4    Tanu Weds Manu: Returns
+5               Welcome Back
+6                     ABCD 2
+7            Dil Dhadakne Do
+8                       Baby
+9                       Piku
+Name: Title, dtype: object
+0                          Dangal
+1                          Sultan
+2              Ae Dil Hai Mushkil
+3    M.S. Dhoni: The Untold Story
+4                          Rustom
+5                         Airlift
+6                     Housefull 3
+7                             Fan
+8                         Shivaay
+Name: Title, dtype: object
+0                 Sanju
+1             Padmaavat
+2             Andhadhun
+3                Simmba
+4    Thugs of Hindostan
+5                Race 3
+6              Baaghi 2
+7                Hichki
+8            Badhaai Ho
+9               Pad Man
+Name: Title, dtype: object
+0                        Tanhaji
+1                       Baaghi 3
+2               Street Dancer 3D
+3    Shubh Mangal Zyada Saavdhan
+4                         Malang
+5                       Chhapaak
+6                   Love Aaj Kal
+7               Jawaani Jaaneman
+8                        Thappad
+9                          Panga
+Name: Title, dtype: object
+0          Roohi
+1    Mumbai Saga
+2        Radhe *
+Name: Title, dtype: object
